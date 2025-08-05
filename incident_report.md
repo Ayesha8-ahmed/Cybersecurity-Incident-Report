@@ -1,6 +1,4 @@
-# Equifax Data Breach: Cybersecurity Analysis
-
-## Report
+# Equifax Data Breach: Cybersecurity Analysis Report
 
 ### 1. Introduction
 In one of the most significant data breaches of the 21st century, Equifax, one of the three major credit reporting agencies in the United States, suffered a catastrophic cyberattack in mid-2017. The breach compromised the personal information of approximately 147 million individuals, including names, social security numbers, birth dates, addresses, and in some cases, driver's license numbers. This case study explores how the breach occurred, the vulnerabilities exploited, the compromised components of the CIA triad, the attackers' tactics, techniques, and procedures (TTPs), and the post-breach mitigation efforts taken by Equifax.

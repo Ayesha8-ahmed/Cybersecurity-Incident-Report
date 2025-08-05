@@ -1,32 +1,44 @@
-🔐 Equifax Data Breach (2017) – Cybersecurity Incident Report
-This repository documents a simulated data breach incident, covering every phase from detection to resolution. The goal is to strengthen my understanding of incident response procedures, digital forensics, and post-incident handling — essential skills for cybersecurity roles.
+# 🔐 Equifax Data Breach (2017) – Cybersecurity Incident Report
 
-📦 What's Inside
+This repository documents a **simulated data breach incident**, covering every phase from detection to resolution. The goal is to strengthen my understanding of **incident response procedures, digital forensics,** and **post-incident handling** — essential skills for cybersecurity roles.
+
+---
+
+## 📦 What's Inside
+
 Each folder in this repo includes:
 
-incident-report.md — A detailed narrative of the data breach event
+- `incident-report.md` — A detailed narrative of the data breach event
 
-🔁 This repo will be continuously updated with more incident scenarios and refined documentation.
+> 🔁 **This repo will be continuously updated** with more incident scenarios and refined documentation.
 
-🎯 Why This Repo?
-Practice real-world incident response workflows
+---
 
-Build a portfolio of documented cybersecurity case studies
+## 🎯 Why This Repo?
 
-Learn how to respond to and document breaches professionally
+- ✅ Practice real-world incident response workflows  
+- ✅ Build a portfolio of documented cybersecurity case studies  
+- ✅ Learn how to respond to and document breaches professionally  
+- ✅ Reflect on critical thinking, analysis, and communication during security events  
 
-Reflect on critical thinking, analysis, and communication during security events
+---
 
-📂 How to Use This Repo
-Clone or download this repository
+## 📂 How to Use This Repo
 
-Start reading from the main incident-report.md
+1. **Clone or download this repository**
+2. Start reading from the main `incident-report.md`
+3. Review the supporting files and artifacts
+4. Use the **Lessons Learned** section to reflect or present in class/projects
 
-Review the supporting files and artifacts
+---
 
-Use the "lessons learned" section to reflect or present in class/projects
+## 📬 Feedback & Collaboration
 
-📬 Feedback & Collaboration
-If you’d like to improve this simulation, suggest changes, or contribute new incident scenarios — feel free to open a pull request or issue. Contributions are welcome!
+If you’d like to improve this simulation, suggest changes, or contribute new incident scenarios — feel free to **open a pull request or issue**. Contributions are welcome!
 
-🧪 “Cybersecurity isn't just about prevention — it's about how well you respond when prevention fails.” — This repo documents my journey of learning to respond.
+---
+
+## 🧪 Final Thought
+
+> **“Cybersecurity isn't just about prevention — it's about how well you respond when prevention fails.”**  
+> This repo documents my journey of learning to respond.
